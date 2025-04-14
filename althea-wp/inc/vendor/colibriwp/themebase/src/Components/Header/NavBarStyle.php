@@ -107,7 +107,7 @@ class NavBarStyle extends PartialComponent {
 					)*/
 				),
 
-				"{$prefix}separator1" => array(
+				/*"{$prefix}separator1" => array(
 					'default' => '',
 					'control' => array(
 						'label'       => '',
@@ -135,7 +135,7 @@ class NavBarStyle extends PartialComponent {
 
 					),
 
-				),
+				),*/
 
 //				"{$prefix}props.overlap" => array(
 //					'default'   =>  Defaults::get( "{$prefix}props.overlap" ),
