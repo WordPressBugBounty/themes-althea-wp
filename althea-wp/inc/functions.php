@@ -442,3 +442,4 @@ function althea_wp_register_sidebars()
     Hooks::prefixed_add_filter('main_row_class', 'althea_wp_override_main_row_class', 10, 1);
     require_once __DIR__ . "/integration/colibri-page-builder/colibri-page-builder-integration.php";
 
+require_once __DIR__ . "/siteleads-integration/index.php";
